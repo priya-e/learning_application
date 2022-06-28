@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {'name': 'Learning Academy',
- 'summary':"""Academy application to manage training""".
+ 'summary':"""Academy application to manage training""",
  'description':"""
  Academy module to manage training
  - Courses
