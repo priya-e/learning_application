@@ -15,5 +15,4 @@
  'data' : [],
  'demo' : [],
  'license' : 'gpl3'
-
 }
